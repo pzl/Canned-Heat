@@ -3,6 +3,8 @@ Tyco&reg; RC Canned Heat&trade;
 
 This repo is dedicated to the educational benefit of a tear-down, study, and reverse-engineering of the electrical components of the late-90s remote control toy car, the Canned Heat.
 
+![Canned Heat](https://raw.github.com/pzl/Canned-Heat/master/pics/exploded.jpg)
+
 In this Repo
 ----------------
 
